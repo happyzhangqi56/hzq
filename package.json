@@ -24,6 +24,6 @@
     "grunt-contrib-uglify": "^4.0.1",
     "grunt-text-replace": "^0.4.0",
     "install": "^0.13.0",
-    "npm": "^6.14.5"
+    "npm": "^6.14.6"
   }
 }
